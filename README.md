@@ -37,6 +37,7 @@ Hardware – PCs, Cyclone II , USB flasher
 
 Developed by:Yuva Shree
 RegisterNumber:212223040251
+Date:23/10/25
 
 ```
 module Boolean_min(a,b,c,d,w,x,y,z,f1,f2);
