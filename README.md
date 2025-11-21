@@ -61,6 +61,12 @@ and g3(u,w,z);
 or g4(f2,s,t,u);
 endmodule
 ```
+**Boolean Expression**
+(i)F1
+![image](https://github.com/user-attachments/assets/3105f968-b821-455a-8377-9451ac013f51)
+
+(ii)F2
+![image](https://github.com/user-attachments/assets/0c1331bf-4459-489d-87c0-63c9dcac3717)
 
 **RTL realization**
 
